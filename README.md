@@ -1,2 +1,3 @@
-# Peter-s-Portfolio
-Analytics Portfolio
+# Peter's Portfolio
+
+## [Project 1: Cafe Recommendations
